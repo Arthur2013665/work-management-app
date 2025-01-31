@@ -11,6 +11,8 @@ License Activation: The app requires a valid license key to unlock full features
 # Installation
 Clone or Download the Repository: Download or clone the project to your local machine.
 
+git clone <https://github.com/Arthur2013665/work-management-app/edit/main/README.md>
+
 bash
 Copy
 Edit
@@ -18,6 +20,8 @@ git clone <repository-url>
 Install Dependencies: This project uses Python's built-in libraries, so there are no external dependencies required. Ensure you have Python 3.x installed on your machine.
 
 # Run the Application: Navigate to the project directory and run the main Python script:
+
+if u want to run it paste this command in your terminal or follow instructions: python app.py
 
 bash
 Copy
