@@ -58,5 +58,5 @@ Demo Mode vs Activated Mode
 Demo Mode: If a valid license is not entered, the app operates in demo mode. In this mode, only limited features may be available.
 Activated Mode: After entering a valid license key, all features of the app are unlocked.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+# This project is licensed under the MIT License - see the LICENSE file for details.
 
